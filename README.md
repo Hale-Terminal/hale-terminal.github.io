@@ -1,1 +1,1 @@
-# hale-terminal.github.io
+# Hale Terminal
