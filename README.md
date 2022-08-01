@@ -1,6 +1,5 @@
-# Hale Terminal
+Hale Terminal
 ================
-
 Hale Terminal Projects
 
 | Service       | Master    | Develop  |
